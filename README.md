@@ -1,5 +1,5 @@
 ﻿# WebApp
-This is a very basic ASP.NET Core 2.1Web Application (MVC) project (using .Net Core 2.1, Microsoft.EntityFrameworkCore, NSwag).
+This is a very basic ASP.NET Core 2.1 Web Application (MVC) project (using .Net Core 2.1, Microsoft.EntityFrameworkCore, NSwag).
 The App has these following functionalities:
 * It maintains a Controller named HomeController, which process CSV/XML file and store transaction data into database.
 * It has an another Controller named TransactionController, which is a ApiController can get transactions from database according to following criteria:
