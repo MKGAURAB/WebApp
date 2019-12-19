@@ -7,9 +7,12 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using WebApp.EntityModels;
 using WebApp.Models;
+using WebApp.Services;
 
 namespace WebApp
 {
@@ -35,6 +38,8 @@ namespace WebApp
 
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            services.AddDbContext<TransactionDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddScoped<ITransactionService, TransactionService>();
             services.AddSingleton(Configuration);
         }
 

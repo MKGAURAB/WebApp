@@ -9,12 +9,19 @@ using Microsoft.AspNetCore.Mvc;
 using WebApp.Filters;
 using WebApp.Handlers;
 using WebApp.Models;
+using WebApp.Services;
 using WebApp.Utility.Constants;
 
 namespace WebApp.Controllers
 {
     public class HomeController : Controller
     {
+        public ITransactionService TransactionService { get; set; }
+
+        public HomeController(ITransactionService transactionService)
+        {
+            TransactionService = transactionService;
+        }
         public IActionResult Index()
         {
             return View();
@@ -63,7 +70,7 @@ namespace WebApp.Controllers
                 return BadRequest(errorMsg);
             }
 
-            var isSaved = true;
+            var isSaved = TransactionService.AddTransactions(transactionModel.Transcations);
             if (isSaved)
             {
                 return Ok(LogMessageConstants.FileUploadSuccessful);
