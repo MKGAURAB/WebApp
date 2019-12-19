@@ -57,6 +57,7 @@ namespace WebApp.Controllers
             }
             catch (Exception e)
             {
+                Console.WriteLine(LogMessageConstants.DeleteFileError + e.Message);
             }
 
             if (transactionModel == null)
@@ -77,20 +78,6 @@ namespace WebApp.Controllers
             }
 
             return BadRequest(LogMessageConstants.FileUploadFailed);
-        }
-
-        public IActionResult WebApi()
-        {
-            ViewData["Message"] = "Your contact page.";
-
-            return View();
-        }
-
-
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
     }
 }

@@ -10,6 +10,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using NSwag;
 using WebApp.EntityModels;
 using WebApp.Models;
 using WebApp.Services;
@@ -41,6 +42,9 @@ namespace WebApp
             services.AddDbContext<TransactionDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddScoped<ITransactionService, TransactionService>();
             services.AddSingleton(Configuration);
+            services.AddSwaggerDocument( config =>
+                config.Title = "TransactionWebApi"
+            );
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -59,6 +63,8 @@ namespace WebApp
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseCookiePolicy();
+            app.UseSwagger(configure => configure.PostProcess = (document, _) => document.Schemes = new[] { SwaggerSchema.Https })
+               .UseSwaggerUi3();
 
             app.UseMvc(routes =>
             {
