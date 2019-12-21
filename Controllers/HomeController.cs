@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
@@ -11,7 +9,6 @@ using WebApp.Handlers;
 using WebApp.Models;
 using WebApp.Services;
 using WebApp.Utility.Constants;
-using Microsoft.Extensions.Logging;
 using Serilog;
 
 namespace WebApp.Controllers
