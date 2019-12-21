@@ -1,15 +1,19 @@
 ﻿@{
     ViewData["Title"] = "Upload";
 }
+@if (ViewBag.Success)
+{
+    @ViewBag.Message
+}
+else if (!ViewBag.Success && !String.IsNullOrWhiteSpace(ViewBag.Message))
+{
+    @ViewBag.Message
+}
 <h1>Upload File</h1>
-<div class="container" style="width:600px">
-    <section>
-        <form method="post" enctype="multipart/form-data" asp-controller="Home" asp-action="Upload">
-            <div class="form-group">
-                <label for="file"><b>Upload File (CSV/XML)</b></label>
-                <input type="file" id="file" name="file" required />
-            </div>
-            <button type="submit" class="btn btn-primary">Upload</button>
-        </form>
-    </section>
-</div>
+@using (Html.BeginForm("Upload", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div>
+        @Html.TextBox("file", "", new { type = "file" }) <br/>
+        <input type="submit" value="Upload" />
+    </div>
+} 

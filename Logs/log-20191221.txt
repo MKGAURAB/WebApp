@@ -1,0 +1,482 @@
+2019-12-21 12:48:31.523 +06:00 [Information] User profile is available. Using '"C:\Users\mkgau\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2019-12-21 12:48:34.008 +06:00 [Information] Request starting HTTP/1.1 GET https://localhost:5001/  
+2019-12-21 12:48:34.428 +06:00 [Information] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 12:48:34.686 +06:00 [Information] Executing action method "WebApp.Controllers.HomeController.Index (WebApp)" - Validation state: Valid
+2019-12-21 12:48:34.694 +06:00 [Information] Executed action method "WebApp.Controllers.HomeController.Index (WebApp)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 0.661ms.
+2019-12-21 12:48:34.736 +06:00 [Information] Executing ViewResult, running view "Index".
+2019-12-21 12:48:34.883 +06:00 [Information] Executed ViewResult - view "Index" executed in 175.9835ms.
+2019-12-21 12:48:34.886 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Index (WebApp)" in 455.4998ms
+2019-12-21 12:48:34.902 +06:00 [Information] Request finished in 898.0469ms 200 text/html; charset=utf-8
+2019-12-21 12:48:35.165 +06:00 [Information] Request starting HTTP/1.1 GET https://localhost:5001/  
+2019-12-21 12:48:35.166 +06:00 [Information] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 12:48:35.170 +06:00 [Information] Executing action method "WebApp.Controllers.HomeController.Index (WebApp)" - Validation state: Valid
+2019-12-21 12:48:35.171 +06:00 [Information] Executed action method "WebApp.Controllers.HomeController.Index (WebApp)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 0.0624ms.
+2019-12-21 12:48:35.173 +06:00 [Information] Executing ViewResult, running view "Index".
+2019-12-21 12:48:35.175 +06:00 [Information] Executed ViewResult - view "Index" executed in 2.7565ms.
+2019-12-21 12:48:35.177 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Index (WebApp)" in 8.2694ms
+2019-12-21 12:48:35.179 +06:00 [Information] Request finished in 13.5623ms 200 text/html; charset=utf-8
+2019-12-21 12:48:45.858 +06:00 [Information] Request starting HTTP/1.1 GET https://localhost:5001/  
+2019-12-21 12:48:45.861 +06:00 [Information] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 12:48:45.867 +06:00 [Information] Executing action method "WebApp.Controllers.HomeController.Index (WebApp)" - Validation state: Valid
+2019-12-21 12:48:45.869 +06:00 [Information] Executed action method "WebApp.Controllers.HomeController.Index (WebApp)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 0.0155ms.
+2019-12-21 12:48:45.871 +06:00 [Information] Executing ViewResult, running view "Index".
+2019-12-21 12:48:45.872 +06:00 [Information] Executed ViewResult - view "Index" executed in 1.5362ms.
+2019-12-21 12:48:45.874 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Index (WebApp)" in 7.416ms
+2019-12-21 12:48:45.876 +06:00 [Information] Request finished in 17.5244ms 200 text/html; charset=utf-8
+2019-12-21 12:48:46.021 +06:00 [Information] Request starting HTTP/1.1 GET https://localhost:5001/  
+2019-12-21 12:48:46.022 +06:00 [Information] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 12:48:46.025 +06:00 [Information] Executing action method "WebApp.Controllers.HomeController.Index (WebApp)" - Validation state: Valid
+2019-12-21 12:48:46.026 +06:00 [Information] Executed action method "WebApp.Controllers.HomeController.Index (WebApp)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 0.0107ms.
+2019-12-21 12:48:46.028 +06:00 [Information] Executing ViewResult, running view "Index".
+2019-12-21 12:48:46.033 +06:00 [Information] Executed ViewResult - view "Index" executed in 4.7848ms.
+2019-12-21 12:48:46.034 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Index (WebApp)" in 9.2503ms
+2019-12-21 12:48:46.036 +06:00 [Information] Request finished in 15.3677ms 200 text/html; charset=utf-8
+2019-12-21 12:52:36.946 +06:00 [Information] Request starting HTTP/1.1 GET https://localhost:5001/  
+2019-12-21 12:52:36.948 +06:00 [Information] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 12:52:36.950 +06:00 [Information] Executing action method "WebApp.Controllers.HomeController.Index (WebApp)" - Validation state: Valid
+2019-12-21 12:52:36.952 +06:00 [Information] Executed action method "WebApp.Controllers.HomeController.Index (WebApp)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 0.0144ms.
+2019-12-21 12:52:39.122 +06:00 [Information] Executing ViewResult, running view "Index".
+2019-12-21 12:52:39.235 +06:00 [Information] Executed ViewResult - view "Index" executed in 2282.0574ms.
+2019-12-21 12:52:39.238 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Index (WebApp)" in 2287.5766ms
+2019-12-21 12:52:39.240 +06:00 [Information] Request finished in 2300.0645ms 200 text/html; charset=utf-8
+2019-12-21 12:52:39.468 +06:00 [Information] Request starting HTTP/1.1 GET https://localhost:5001/  
+2019-12-21 12:52:39.471 +06:00 [Information] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 12:52:39.473 +06:00 [Information] Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+2019-12-21 12:52:39.475 +06:00 [Information] Executing action method "WebApp.Controllers.HomeController.Index (WebApp)" - Validation state: Valid
+2019-12-21 12:52:39.477 +06:00 [Information] Executed action method "WebApp.Controllers.HomeController.Index (WebApp)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 0.0183ms.
+2019-12-21 12:52:39.485 +06:00 [Information] Executing ViewResult, running view "Index".
+2019-12-21 12:52:39.488 +06:00 [Information] Executed ViewResult - view "Index" executed in 2.6874ms.
+2019-12-21 12:52:39.491 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Index (WebApp)" in 16.2988ms
+2019-12-21 12:52:39.493 +06:00 [Information] Request finished in 24.18ms 200 text/html; charset=utf-8
+2019-12-21 12:52:39.500 +06:00 [Information] Sending file. Request path: '"/favicon.ico"'. Physical path: '"C:\Users\mkgau\Desktop\WebApp\wwwroot\favicon.ico"'
+2019-12-21 12:52:39.502 +06:00 [Information] Request finished in 29.0829ms 200 image/x-icon
+2019-12-21 12:53:23.616 +06:00 [Information] Request starting HTTP/1.1 POST https://localhost:5001/Upload/UploadFile multipart/form-data; boundary=----WebKitFormBoundaryYNnYV0UlJpFSBN1k 951
+2019-12-21 12:53:23.620 +06:00 [Information] Request finished in 3.9426ms 404 
+2019-12-21 12:53:23.633 +06:00 [Information] Connection id ""0HLS5S75U32VF"", Request id ""0HLS5S75U32VF:00000002"": the application completed without reading the entire request body.
+2019-12-21 12:53:29.671 +06:00 [Information] Request starting HTTP/1.1 GET https://localhost:5001/  
+2019-12-21 12:53:29.673 +06:00 [Information] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 12:53:29.675 +06:00 [Information] Executing action method "WebApp.Controllers.HomeController.Index (WebApp)" - Validation state: Valid
+2019-12-21 12:53:29.676 +06:00 [Information] Executed action method "WebApp.Controllers.HomeController.Index (WebApp)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 0.0145ms.
+2019-12-21 12:53:29.678 +06:00 [Information] Executing ViewResult, running view "Index".
+2019-12-21 12:53:29.682 +06:00 [Information] Executed ViewResult - view "Index" executed in 4.1489ms.
+2019-12-21 12:53:29.684 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Index (WebApp)" in 9.0894ms
+2019-12-21 12:53:29.687 +06:00 [Information] Request finished in 16.449ms 200 text/html; charset=utf-8
+2019-12-21 12:53:29.851 +06:00 [Information] Request starting HTTP/1.1 GET https://localhost:5001/  
+2019-12-21 12:53:29.852 +06:00 [Information] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 12:53:29.854 +06:00 [Information] Executing action method "WebApp.Controllers.HomeController.Index (WebApp)" - Validation state: Valid
+2019-12-21 12:53:29.855 +06:00 [Information] Executed action method "WebApp.Controllers.HomeController.Index (WebApp)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 0.0111ms.
+2019-12-21 12:53:29.857 +06:00 [Information] Executing ViewResult, running view "Index".
+2019-12-21 12:53:29.859 +06:00 [Information] Executed ViewResult - view "Index" executed in 1.9164ms.
+2019-12-21 12:53:29.861 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Index (WebApp)" in 7.5297ms
+2019-12-21 12:53:29.865 +06:00 [Information] Request finished in 13.6089ms 200 text/html; charset=utf-8
+2019-12-21 12:54:02.689 +06:00 [Information] Request starting HTTP/1.1 GET https://localhost:5001/  
+2019-12-21 12:54:02.691 +06:00 [Information] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 12:54:02.693 +06:00 [Information] Executing action method "WebApp.Controllers.HomeController.Index (WebApp)" - Validation state: Valid
+2019-12-21 12:54:02.694 +06:00 [Information] Executed action method "WebApp.Controllers.HomeController.Index (WebApp)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 0.0092ms.
+2019-12-21 12:54:02.850 +06:00 [Information] Executing ViewResult, running view "Index".
+2019-12-21 12:54:02.865 +06:00 [Information] Executed ViewResult - view "Index" executed in 167.7738ms.
+2019-12-21 12:54:02.868 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Index (WebApp)" in 174.9165ms
+2019-12-21 12:54:02.872 +06:00 [Information] Request finished in 182.6163ms 200 text/html; charset=utf-8
+2019-12-21 12:54:03.076 +06:00 [Information] Request starting HTTP/1.1 GET https://localhost:5001/  
+2019-12-21 12:54:03.084 +06:00 [Information] Request starting HTTP/1.1 GET https://localhost:5001/favicon.ico  
+2019-12-21 12:54:03.084 +06:00 [Information] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 12:54:03.089 +06:00 [Information] Executing action method "WebApp.Controllers.HomeController.Index (WebApp)" - Validation state: Valid
+2019-12-21 12:54:03.091 +06:00 [Information] Executed action method "WebApp.Controllers.HomeController.Index (WebApp)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 0.0199ms.
+2019-12-21 12:54:03.093 +06:00 [Information] Executing ViewResult, running view "Index".
+2019-12-21 12:54:03.097 +06:00 [Information] Executed ViewResult - view "Index" executed in 4.3226ms.
+2019-12-21 12:54:03.101 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Index (WebApp)" in 11.8526ms
+2019-12-21 12:54:03.102 +06:00 [Information] Request finished in 26.7248ms 200 text/html; charset=utf-8
+2019-12-21 12:54:03.104 +06:00 [Information] Sending file. Request path: '"/favicon.ico"'. Physical path: '"C:\Users\mkgau\Desktop\WebApp\wwwroot\favicon.ico"'
+2019-12-21 12:54:03.108 +06:00 [Information] Request finished in 24.0932ms 200 image/x-icon
+2019-12-21 12:54:07.300 +06:00 [Information] Request starting HTTP/1.1 POST https://localhost:5001/Home/Upload multipart/form-data; boundary=----WebKitFormBoundaryRaIHP2Eynp68zhK5 951
+2019-12-21 12:54:07.327 +06:00 [Information] Route matched with "{action = \"Upload\", controller = \"Home\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Upload(Microsoft.AspNetCore.Http.IFormFile)" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 12:54:07.406 +06:00 [Information] Executing action method "WebApp.Controllers.HomeController.Upload (WebApp)" - Validation state: Valid
+2019-12-21 12:54:11.519 +06:00 [Information] Success deleting file!
+2019-12-21 12:54:11.521 +06:00 [Information] Adding transactions.
+2019-12-21 12:54:11.736 +06:00 [Information] Entity Framework Core "2.1.14-servicing-32113" initialized '"TransactionDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+2019-12-21 12:54:11.967 +06:00 [Information] Executed DbCommand ("9"ms) [Parameters=["@p0='?' (DbType = Decimal), @p1='?' (Size = 10), @p2='?' (Size = 10), @p3='?' (DbType = DateTime), @p4='?' (Size = 50)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [Transaction] ([Amount], [CurrencyCode], [Status], [TransactionDate], [TransactionId])
+VALUES (@p0, @p1, @p2, @p3, @p4);
+SELECT [Id]
+FROM [Transaction]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();"
+2019-12-21 12:54:11.994 +06:00 [Information] Executed DbCommand ("1"ms) [Parameters=["@p0='?' (DbType = Decimal), @p1='?' (Size = 10), @p2='?' (Size = 10), @p3='?' (DbType = DateTime), @p4='?' (Size = 50)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [Transaction] ([Amount], [CurrencyCode], [Status], [TransactionDate], [TransactionId])
+VALUES (@p0, @p1, @p2, @p3, @p4);
+SELECT [Id]
+FROM [Transaction]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();"
+2019-12-21 12:54:12.007 +06:00 [Information] Executed action method "WebApp.Controllers.HomeController.Upload (WebApp)", returned result "Microsoft.AspNetCore.Mvc.OkObjectResult" in 4599.2281ms.
+2019-12-21 12:54:12.023 +06:00 [Information] Executing ObjectResult, writing value of type '"System.String"'.
+2019-12-21 12:54:12.027 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Upload (WebApp)" in 4696.8352ms
+2019-12-21 12:54:12.034 +06:00 [Information] Request finished in 4733.3953ms 200 text/plain; charset=utf-8
+2019-12-21 12:54:12.151 +06:00 [Information] Request starting HTTP/1.1 GET https://localhost:5001/Home/Upload  
+2019-12-21 12:54:12.154 +06:00 [Information] Route matched with "{action = \"Upload\", controller = \"Home\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Upload(Microsoft.AspNetCore.Http.IFormFile)" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 12:54:12.168 +06:00 [Information] Executing ObjectResult, writing value of type '"System.String"'.
+2019-12-21 12:54:12.170 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Upload (WebApp)" in 4.1564ms
+2019-12-21 12:54:12.178 +06:00 [Information] Request finished in 27.0809ms 400 text/plain; charset=utf-8
+2019-12-21 12:54:15.813 +06:00 [Information] Request starting HTTP/1.1 GET https://localhost:5001/  
+2019-12-21 12:54:15.816 +06:00 [Information] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 12:54:15.819 +06:00 [Information] Executing action method "WebApp.Controllers.HomeController.Index (WebApp)" - Validation state: Valid
+2019-12-21 12:54:15.820 +06:00 [Information] Executed action method "WebApp.Controllers.HomeController.Index (WebApp)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 0.0137ms.
+2019-12-21 12:54:15.824 +06:00 [Information] Executing ViewResult, running view "Index".
+2019-12-21 12:54:15.828 +06:00 [Information] Executed ViewResult - view "Index" executed in 4.778ms.
+2019-12-21 12:54:15.831 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Index (WebApp)" in 12.6504ms
+2019-12-21 12:54:15.846 +06:00 [Information] Request finished in 32.993ms 200 text/html; charset=utf-8
+2019-12-21 12:54:16.017 +06:00 [Information] Request starting HTTP/1.1 GET https://localhost:5001/  
+2019-12-21 12:54:16.022 +06:00 [Information] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 12:54:16.025 +06:00 [Information] Executing action method "WebApp.Controllers.HomeController.Index (WebApp)" - Validation state: Valid
+2019-12-21 12:54:16.028 +06:00 [Information] Executed action method "WebApp.Controllers.HomeController.Index (WebApp)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 0.0196ms.
+2019-12-21 12:54:16.034 +06:00 [Information] Executing ViewResult, running view "Index".
+2019-12-21 12:54:16.037 +06:00 [Information] Executed ViewResult - view "Index" executed in 2.9926ms.
+2019-12-21 12:54:16.038 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Index (WebApp)" in 13.3035ms
+2019-12-21 12:54:16.041 +06:00 [Information] Request finished in 23.6512ms 200 text/html; charset=utf-8
+2019-12-21 12:57:19.016 +06:00 [Information] User profile is available. Using '"C:\Users\mkgau\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2019-12-21 12:57:20.756 +06:00 [Information] Request starting HTTP/1.1 GET https://localhost:5001/  
+2019-12-21 12:57:21.118 +06:00 [Information] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 12:57:21.285 +06:00 [Information] Executing action method "WebApp.Controllers.HomeController.Index (WebApp)" - Validation state: Valid
+2019-12-21 12:57:21.298 +06:00 [Information] Executed action method "WebApp.Controllers.HomeController.Index (WebApp)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 0.8062ms.
+2019-12-21 12:57:21.352 +06:00 [Information] Executing ViewResult, running view "Index".
+2019-12-21 12:57:21.661 +06:00 [Information] Executed ViewResult - view "Index" executed in 344.4886ms.
+2019-12-21 12:57:21.664 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Index (WebApp)" in 543.4538ms
+2019-12-21 12:57:21.702 +06:00 [Information] Request finished in 950.0077ms 200 text/html; charset=utf-8
+2019-12-21 12:57:22.065 +06:00 [Information] Request starting HTTP/1.1 GET https://localhost:5001/  
+2019-12-21 12:57:22.067 +06:00 [Information] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 12:57:22.069 +06:00 [Information] Executing action method "WebApp.Controllers.HomeController.Index (WebApp)" - Validation state: Valid
+2019-12-21 12:57:22.070 +06:00 [Information] Executed action method "WebApp.Controllers.HomeController.Index (WebApp)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 0.0876ms.
+2019-12-21 12:57:22.071 +06:00 [Information] Executing ViewResult, running view "Index".
+2019-12-21 12:57:22.075 +06:00 [Information] Executed ViewResult - view "Index" executed in 3.2984ms.
+2019-12-21 12:57:22.076 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Index (WebApp)" in 8.4141ms
+2019-12-21 12:57:22.078 +06:00 [Information] Request finished in 12.9677ms 200 text/html; charset=utf-8
+2019-12-21 12:57:26.480 +06:00 [Information] Request starting HTTP/1.1 POST https://localhost:5001/Home/Upload multipart/form-data; boundary=----WebKitFormBoundaryVMHruKHlh6QalWAm 951
+2019-12-21 12:57:26.497 +06:00 [Information] Route matched with "{action = \"Upload\", controller = \"Home\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Upload(Microsoft.AspNetCore.Http.IFormFile)" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 12:57:26.555 +06:00 [Information] Executing action method "WebApp.Controllers.HomeController.Upload (WebApp)" - Validation state: Valid
+2019-12-21 12:57:29.348 +06:00 [Information] Success deleting file!
+2019-12-21 12:57:29.350 +06:00 [Information] Adding transactions.
+2019-12-21 12:57:29.531 +06:00 [Information] Entity Framework Core "2.1.14-servicing-32113" initialized '"TransactionDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+2019-12-21 12:57:29.718 +06:00 [Information] Executed DbCommand ("9"ms) [Parameters=["@p0='?' (DbType = Decimal), @p1='?' (Size = 10), @p2='?' (Size = 10), @p3='?' (DbType = DateTime), @p4='?' (Size = 50)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [Transaction] ([Amount], [CurrencyCode], [Status], [TransactionDate], [TransactionId])
+VALUES (@p0, @p1, @p2, @p3, @p4);
+SELECT [Id]
+FROM [Transaction]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();"
+2019-12-21 12:57:29.741 +06:00 [Information] Executed DbCommand ("1"ms) [Parameters=["@p0='?' (DbType = Decimal), @p1='?' (Size = 10), @p2='?' (Size = 10), @p3='?' (DbType = DateTime), @p4='?' (Size = 50)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [Transaction] ([Amount], [CurrencyCode], [Status], [TransactionDate], [TransactionId])
+VALUES (@p0, @p1, @p2, @p3, @p4);
+SELECT [Id]
+FROM [Transaction]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();"
+2019-12-21 12:57:29.752 +06:00 [Information] Executed action method "WebApp.Controllers.HomeController.Upload (WebApp)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 3195.4528ms.
+2019-12-21 12:57:29.765 +06:00 [Information] Executing ViewResult, running view "Upload".
+2019-12-21 12:57:29.770 +06:00 [Error] The view '"Upload"' was not found. Searched locations: ["/Views/Home/Upload.cshtml", "/Views/Shared/Upload.cshtml", "/Pages/Shared/Upload.cshtml"]
+2019-12-21 12:57:29.783 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Upload (WebApp)" in 3281.3705ms
+2019-12-21 12:57:29.793 +06:00 [Error] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The view 'Upload' was not found. The following locations were searched:
+/Views/Home/Upload.cshtml
+/Views/Shared/Upload.cshtml
+/Pages/Shared/Upload.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultAsync(IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResultFilterAsync[TFilter,TFilterAsync]()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResultExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultFilters()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at NSwag.AspNetCore.Middlewares.SwaggerUiIndexMiddleware`1.Invoke(HttpContext context)
+   at NSwag.AspNetCore.Middlewares.RedirectToIndexMiddleware.Invoke(HttpContext context)
+   at NSwag.AspNetCore.Middlewares.SwaggerDocumentMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2019-12-21 12:57:29.905 +06:00 [Information] Request finished in 3425.587ms 500 text/html; charset=utf-8
+2019-12-21 12:57:30.094 +06:00 [Information] Request starting HTTP/1.1 GET https://localhost:5001/Home/Upload  
+2019-12-21 12:57:30.096 +06:00 [Information] Route matched with "{action = \"Upload\", controller = \"Home\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Upload(Microsoft.AspNetCore.Http.IFormFile)" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 12:57:30.102 +06:00 [Information] Executing ObjectResult, writing value of type '"System.String"'.
+2019-12-21 12:57:30.106 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Upload (WebApp)" in 8.4843ms
+2019-12-21 12:57:30.108 +06:00 [Information] Request finished in 13.5554ms 400 text/plain; charset=utf-8
+2019-12-21 12:57:44.332 +06:00 [Information] Request starting HTTP/1.1 GET https://localhost:5001/  
+2019-12-21 12:57:44.342 +06:00 [Information] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 12:57:44.347 +06:00 [Information] Executing action method "WebApp.Controllers.HomeController.Index (WebApp)" - Validation state: Valid
+2019-12-21 12:57:44.348 +06:00 [Information] Executed action method "WebApp.Controllers.HomeController.Index (WebApp)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 0.018ms.
+2019-12-21 12:57:44.350 +06:00 [Information] Executing ViewResult, running view "Index".
+2019-12-21 12:57:44.354 +06:00 [Information] Executed ViewResult - view "Index" executed in 4.3323ms.
+2019-12-21 12:57:44.357 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Index (WebApp)" in 10.1143ms
+2019-12-21 12:57:44.358 +06:00 [Information] Request finished in 26.1724ms 200 text/html; charset=utf-8
+2019-12-21 12:57:44.603 +06:00 [Information] Request starting HTTP/1.1 GET https://localhost:5001/  
+2019-12-21 12:57:44.606 +06:00 [Information] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 12:57:44.609 +06:00 [Information] Executing action method "WebApp.Controllers.HomeController.Index (WebApp)" - Validation state: Valid
+2019-12-21 12:57:44.610 +06:00 [Information] Executed action method "WebApp.Controllers.HomeController.Index (WebApp)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 0.0121ms.
+2019-12-21 12:57:44.613 +06:00 [Information] Executing ViewResult, running view "Index".
+2019-12-21 12:57:44.616 +06:00 [Information] Executed ViewResult - view "Index" executed in 3.7772ms.
+2019-12-21 12:57:44.621 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Index (WebApp)" in 11.8424ms
+2019-12-21 12:57:44.623 +06:00 [Information] Request finished in 20.3928ms 200 text/html; charset=utf-8
+2019-12-21 13:02:37.166 +06:00 [Information] User profile is available. Using '"C:\Users\mkgau\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2019-12-21 13:02:39.158 +06:00 [Information] Request starting HTTP/1.1 GET https://localhost:5001/  
+2019-12-21 13:02:39.824 +06:00 [Information] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 13:02:40.183 +06:00 [Information] Executing action method "WebApp.Controllers.HomeController.Index (WebApp)" - Validation state: Valid
+2019-12-21 13:02:40.358 +06:00 [Information] Executed action method "WebApp.Controllers.HomeController.Index (WebApp)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 1.1224ms.
+2019-12-21 13:02:40.441 +06:00 [Information] Executing ViewResult, running view "Index".
+2019-12-21 13:02:41.230 +06:00 [Information] Executed ViewResult - view "Index" executed in 844.1701ms.
+2019-12-21 13:02:41.829 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Index (WebApp)" in 1997.9548ms
+2019-12-21 13:02:41.867 +06:00 [Information] Request finished in 2712.3758ms 200 text/html; charset=utf-8
+2019-12-21 13:02:42.083 +06:00 [Information] Request starting HTTP/1.1 GET https://localhost:5001/  
+2019-12-21 13:02:42.089 +06:00 [Information] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 13:02:42.104 +06:00 [Information] Executing action method "WebApp.Controllers.HomeController.Index (WebApp)" - Validation state: Valid
+2019-12-21 13:02:42.110 +06:00 [Information] Executed action method "WebApp.Controllers.HomeController.Index (WebApp)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 0.1126ms.
+2019-12-21 13:02:42.112 +06:00 [Information] Executing ViewResult, running view "Index".
+2019-12-21 13:02:42.118 +06:00 [Information] Executed ViewResult - view "Index" executed in 5.8528ms.
+2019-12-21 13:02:42.124 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Index (WebApp)" in 20.7721ms
+2019-12-21 13:02:42.128 +06:00 [Information] Request finished in 45.1708ms 200 text/html; charset=utf-8
+2019-12-21 13:02:46.149 +06:00 [Information] Request starting HTTP/1.1 POST https://localhost:5001/Home/Upload multipart/form-data; boundary=----WebKitFormBoundarynFqRa22wrbEvbec7 951
+2019-12-21 13:02:46.176 +06:00 [Information] Route matched with "{action = \"Upload\", controller = \"Home\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Upload(Microsoft.AspNetCore.Http.IFormFile)" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 13:02:46.250 +06:00 [Information] Executing action method "WebApp.Controllers.HomeController.Upload (WebApp)" - Validation state: Valid
+2019-12-21 13:02:46.407 +06:00 [Information] Success deleting file!
+2019-12-21 13:02:46.408 +06:00 [Information] Adding transactions.
+2019-12-21 13:02:46.624 +06:00 [Information] Entity Framework Core "2.1.14-servicing-32113" initialized '"TransactionDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+2019-12-21 13:02:46.841 +06:00 [Information] Executed DbCommand ("8"ms) [Parameters=["@p0='?' (DbType = Decimal), @p1='?' (Size = 10), @p2='?' (Size = 10), @p3='?' (DbType = DateTime), @p4='?' (Size = 50)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [Transaction] ([Amount], [CurrencyCode], [Status], [TransactionDate], [TransactionId])
+VALUES (@p0, @p1, @p2, @p3, @p4);
+SELECT [Id]
+FROM [Transaction]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();"
+2019-12-21 13:02:46.864 +06:00 [Information] Executed DbCommand ("1"ms) [Parameters=["@p0='?' (DbType = Decimal), @p1='?' (Size = 10), @p2='?' (Size = 10), @p3='?' (DbType = DateTime), @p4='?' (Size = 50)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [Transaction] ([Amount], [CurrencyCode], [Status], [TransactionDate], [TransactionId])
+VALUES (@p0, @p1, @p2, @p3, @p4);
+SELECT [Id]
+FROM [Transaction]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();"
+2019-12-21 13:02:46.879 +06:00 [Information] Executed action method "WebApp.Controllers.HomeController.Upload (WebApp)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 626.6037ms.
+2019-12-21 13:02:46.897 +06:00 [Information] Executing ViewResult, running view "Index".
+2019-12-21 13:02:46.904 +06:00 [Information] Executed ViewResult - view "Index" executed in 6.5449ms.
+2019-12-21 13:02:46.916 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Upload (WebApp)" in 736.231ms
+2019-12-21 13:02:46.967 +06:00 [Information] Request finished in 817.4304ms 200 text/html; charset=utf-8
+2019-12-21 13:02:47.198 +06:00 [Information] Request starting HTTP/1.1 GET https://localhost:5001/Home/Upload  
+2019-12-21 13:02:47.205 +06:00 [Information] Route matched with "{action = \"Upload\", controller = \"Home\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Upload(Microsoft.AspNetCore.Http.IFormFile)" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 13:02:47.214 +06:00 [Information] Executing ObjectResult, writing value of type '"System.String"'.
+2019-12-21 13:02:47.218 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Upload (WebApp)" in 9.1523ms
+2019-12-21 13:02:47.228 +06:00 [Information] Request finished in 30.343ms 400 text/plain; charset=utf-8
+2019-12-21 13:02:54.468 +06:00 [Information] Request starting HTTP/1.1 POST https://localhost:5001/Home/Upload multipart/form-data; boundary=----WebKitFormBoundarybX411syiV9xoFDDY 951
+2019-12-21 13:02:54.473 +06:00 [Information] Route matched with "{action = \"Upload\", controller = \"Home\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Upload(Microsoft.AspNetCore.Http.IFormFile)" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 13:02:54.479 +06:00 [Information] Executing action method "WebApp.Controllers.HomeController.Upload (WebApp)" - Validation state: Valid
+2019-12-21 13:02:54.487 +06:00 [Information] Success deleting file!
+2019-12-21 13:02:54.498 +06:00 [Information] Adding transactions.
+2019-12-21 13:02:54.503 +06:00 [Information] Entity Framework Core "2.1.14-servicing-32113" initialized '"TransactionDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+2019-12-21 13:02:54.529 +06:00 [Information] Executed DbCommand ("13"ms) [Parameters=["@p0='?' (DbType = Decimal), @p1='?' (Size = 10), @p2='?' (Size = 10), @p3='?' (DbType = DateTime), @p4='?' (Size = 50)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [Transaction] ([Amount], [CurrencyCode], [Status], [TransactionDate], [TransactionId])
+VALUES (@p0, @p1, @p2, @p3, @p4);
+SELECT [Id]
+FROM [Transaction]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();"
+2019-12-21 13:02:54.555 +06:00 [Information] Executed DbCommand ("22"ms) [Parameters=["@p0='?' (DbType = Decimal), @p1='?' (Size = 10), @p2='?' (Size = 10), @p3='?' (DbType = DateTime), @p4='?' (Size = 50)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [Transaction] ([Amount], [CurrencyCode], [Status], [TransactionDate], [TransactionId])
+VALUES (@p0, @p1, @p2, @p3, @p4);
+SELECT [Id]
+FROM [Transaction]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();"
+2019-12-21 13:02:54.573 +06:00 [Information] Executed action method "WebApp.Controllers.HomeController.Upload (WebApp)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 92.2547ms.
+2019-12-21 13:02:54.576 +06:00 [Information] Executing ViewResult, running view "Index".
+2019-12-21 13:02:54.579 +06:00 [Information] Executed ViewResult - view "Index" executed in 2.7176ms.
+2019-12-21 13:02:54.581 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Upload (WebApp)" in 103.6636ms
+2019-12-21 13:02:54.583 +06:00 [Information] Request finished in 114.2503ms 200 text/html; charset=utf-8
+2019-12-21 13:02:54.759 +06:00 [Information] Request starting HTTP/1.1 GET https://localhost:5001/Home/Upload  
+2019-12-21 13:02:54.764 +06:00 [Information] Route matched with "{action = \"Upload\", controller = \"Home\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Upload(Microsoft.AspNetCore.Http.IFormFile)" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 13:02:54.768 +06:00 [Information] Executing ObjectResult, writing value of type '"System.String"'.
+2019-12-21 13:02:54.771 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Upload (WebApp)" in 3.7262ms
+2019-12-21 13:02:54.773 +06:00 [Information] Request finished in 14.3617ms 400 text/plain; charset=utf-8
+2019-12-21 13:08:32.792 +06:00 [Information] User profile is available. Using '"C:\Users\mkgau\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2019-12-21 13:08:35.069 +06:00 [Information] Request starting HTTP/1.1 GET https://localhost:5001/  
+2019-12-21 13:08:35.568 +06:00 [Information] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 13:08:35.794 +06:00 [Information] Executing action method "WebApp.Controllers.HomeController.Index (WebApp)" - Validation state: Valid
+2019-12-21 13:08:35.805 +06:00 [Information] Executed action method "WebApp.Controllers.HomeController.Index (WebApp)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 0.6997ms.
+2019-12-21 13:08:35.841 +06:00 [Information] Executing ViewResult, running view "Index".
+2019-12-21 13:08:36.109 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Index (WebApp)" in 535.6924ms
+2019-12-21 13:08:36.113 +06:00 [Error] An unhandled exception has occurred while executing the request.
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot convert null to 'bool' because it is a non-nullable value type
+   at CallSite.Target(Closure , CallSite , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   at AspNetCore.Views_Home_Index.ExecuteAsync() in C:\Users\mkgau\Desktop\WebApp\Views\Home\Index.cshtml:line 4
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultAsync(IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResultFilterAsync[TFilter,TFilterAsync]()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResultExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultFilters()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at NSwag.AspNetCore.Middlewares.SwaggerUiIndexMiddleware`1.Invoke(HttpContext context)
+   at NSwag.AspNetCore.Middlewares.RedirectToIndexMiddleware.Invoke(HttpContext context)
+   at NSwag.AspNetCore.Middlewares.SwaggerDocumentMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2019-12-21 13:08:36.280 +06:00 [Information] Request finished in 1216.024ms 500 text/html; charset=utf-8
+2019-12-21 13:08:36.565 +06:00 [Information] Request starting HTTP/1.1 GET https://localhost:5001/  
+2019-12-21 13:08:36.568 +06:00 [Information] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 13:08:36.573 +06:00 [Information] Executing action method "WebApp.Controllers.HomeController.Index (WebApp)" - Validation state: Valid
+2019-12-21 13:08:36.576 +06:00 [Information] Executed action method "WebApp.Controllers.HomeController.Index (WebApp)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 0.1115ms.
+2019-12-21 13:08:36.580 +06:00 [Information] Executing ViewResult, running view "Index".
+2019-12-21 13:08:36.642 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Index (WebApp)" in 69.2797ms
+2019-12-21 13:08:36.644 +06:00 [Error] An unhandled exception has occurred while executing the request.
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot convert null to 'bool' because it is a non-nullable value type
+   at CallSite.Target(Closure , CallSite , Object )
+   at AspNetCore.Views_Home_Index.ExecuteAsync() in C:\Users\mkgau\Desktop\WebApp\Views\Home\Index.cshtml:line 4
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultAsync(IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResultFilterAsync[TFilter,TFilterAsync]()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResultExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultFilters()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at NSwag.AspNetCore.Middlewares.SwaggerUiIndexMiddleware`1.Invoke(HttpContext context)
+   at NSwag.AspNetCore.Middlewares.RedirectToIndexMiddleware.Invoke(HttpContext context)
+   at NSwag.AspNetCore.Middlewares.SwaggerDocumentMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2019-12-21 13:08:36.680 +06:00 [Information] Request finished in 114.5122ms 500 text/html; charset=utf-8
+2019-12-21 13:09:37.287 +06:00 [Information] User profile is available. Using '"C:\Users\mkgau\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2019-12-21 13:09:38.794 +06:00 [Information] Request starting HTTP/1.1 GET https://localhost:5001/  
+2019-12-21 13:09:39.104 +06:00 [Information] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 13:09:39.257 +06:00 [Information] Executing action method "WebApp.Controllers.HomeController.Index (WebApp)" - Validation state: Valid
+2019-12-21 13:09:39.338 +06:00 [Information] Executed action method "WebApp.Controllers.HomeController.Index (WebApp)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 73.4912ms.
+2019-12-21 13:09:39.372 +06:00 [Information] Executing ViewResult, running view "Index".
+2019-12-21 13:09:39.555 +06:00 [Information] Executed ViewResult - view "Index" executed in 207.4129ms.
+2019-12-21 13:09:39.559 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Index (WebApp)" in 452.1997ms
+2019-12-21 13:09:39.575 +06:00 [Information] Request finished in 782.8677ms 200 text/html; charset=utf-8
+2019-12-21 13:09:39.831 +06:00 [Information] Request starting HTTP/1.1 GET https://localhost:5001/  
+2019-12-21 13:09:39.835 +06:00 [Information] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 13:09:39.838 +06:00 [Information] Executing action method "WebApp.Controllers.HomeController.Index (WebApp)" - Validation state: Valid
+2019-12-21 13:09:39.839 +06:00 [Information] Executed action method "WebApp.Controllers.HomeController.Index (WebApp)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 0.0585ms.
+2019-12-21 13:09:39.840 +06:00 [Information] Executing ViewResult, running view "Index".
+2019-12-21 13:09:39.843 +06:00 [Information] Executed ViewResult - view "Index" executed in 2.4786ms.
+2019-12-21 13:09:39.845 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Index (WebApp)" in 7.7836ms
+2019-12-21 13:09:39.846 +06:00 [Information] Request finished in 14.7193ms 200 text/html; charset=utf-8
+2019-12-21 13:09:44.143 +06:00 [Information] Request starting HTTP/1.1 POST https://localhost:5001/Home/Upload multipart/form-data; boundary=----WebKitFormBoundaryBFPVYsW6rtJ3z3h3 951
+2019-12-21 13:09:44.160 +06:00 [Information] Route matched with "{action = \"Upload\", controller = \"Home\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Upload(Microsoft.AspNetCore.Http.IFormFile)" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 13:09:44.232 +06:00 [Information] Executing action method "WebApp.Controllers.HomeController.Upload (WebApp)" - Validation state: Valid
+2019-12-21 13:09:44.676 +06:00 [Information] Success deleting file!
+2019-12-21 13:09:44.678 +06:00 [Information] Adding transactions.
+2019-12-21 13:09:45.090 +06:00 [Information] Entity Framework Core "2.1.14-servicing-32113" initialized '"TransactionDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+2019-12-21 13:09:45.695 +06:00 [Information] Executed DbCommand ("16"ms) [Parameters=["@p0='?' (DbType = Decimal), @p1='?' (Size = 10), @p2='?' (Size = 10), @p3='?' (DbType = DateTime), @p4='?' (Size = 50)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [Transaction] ([Amount], [CurrencyCode], [Status], [TransactionDate], [TransactionId])
+VALUES (@p0, @p1, @p2, @p3, @p4);
+SELECT [Id]
+FROM [Transaction]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();"
+2019-12-21 13:09:45.796 +06:00 [Information] Executed DbCommand ("2"ms) [Parameters=["@p0='?' (DbType = Decimal), @p1='?' (Size = 10), @p2='?' (Size = 10), @p3='?' (DbType = DateTime), @p4='?' (Size = 50)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [Transaction] ([Amount], [CurrencyCode], [Status], [TransactionDate], [TransactionId])
+VALUES (@p0, @p1, @p2, @p3, @p4);
+SELECT [Id]
+FROM [Transaction]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();"
+2019-12-21 13:09:45.818 +06:00 [Information] Executed action method "WebApp.Controllers.HomeController.Upload (WebApp)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 1584.4852ms.
+2019-12-21 13:09:45.834 +06:00 [Information] Executing ViewResult, running view "Index".
+2019-12-21 13:09:45.849 +06:00 [Information] Executed ViewResult - view "Index" executed in 14.9546ms.
+2019-12-21 13:09:46.094 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Upload (WebApp)" in 1930.8995ms
+2019-12-21 13:09:46.175 +06:00 [Information] Request finished in 2032.4773ms 200 text/html; charset=utf-8
+2019-12-21 13:09:46.279 +06:00 [Information] Request starting HTTP/1.1 GET https://localhost:5001/Home/Upload  
+2019-12-21 13:09:46.285 +06:00 [Information] Route matched with "{action = \"Upload\", controller = \"Home\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Upload(Microsoft.AspNetCore.Http.IFormFile)" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 13:09:46.302 +06:00 [Information] Executing ObjectResult, writing value of type '"System.String"'.
+2019-12-21 13:09:46.305 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Upload (WebApp)" in 12.5913ms
+2019-12-21 13:09:46.320 +06:00 [Information] Request finished in 41.7442ms 400 text/plain; charset=utf-8
+2019-12-21 13:20:15.355 +06:00 [Information] User profile is available. Using '"C:\Users\mkgau\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2019-12-21 13:20:17.030 +06:00 [Information] Request starting HTTP/1.1 GET https://localhost:5001/  
+2019-12-21 13:20:17.282 +06:00 [Information] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 13:20:17.448 +06:00 [Information] Executing action method "WebApp.Controllers.HomeController.Index (WebApp)" - Validation state: Valid
+2019-12-21 13:20:17.521 +06:00 [Information] Executed action method "WebApp.Controllers.HomeController.Index (WebApp)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 66.4012ms.
+2019-12-21 13:20:17.560 +06:00 [Information] Executing ViewResult, running view "Index".
+2019-12-21 13:20:17.743 +06:00 [Information] Executed ViewResult - view "Index" executed in 212.547ms.
+2019-12-21 13:20:17.747 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Index (WebApp)" in 462.5613ms
+2019-12-21 13:20:17.761 +06:00 [Information] Request finished in 736.1293ms 200 text/html; charset=utf-8
+2019-12-21 13:20:18.068 +06:00 [Information] Request starting HTTP/1.1 GET https://localhost:5001/  
+2019-12-21 13:20:18.069 +06:00 [Information] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 13:20:18.082 +06:00 [Information] Executing action method "WebApp.Controllers.HomeController.Index (WebApp)" - Validation state: Valid
+2019-12-21 13:20:18.085 +06:00 [Information] Executed action method "WebApp.Controllers.HomeController.Index (WebApp)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 0.1521ms.
+2019-12-21 13:20:18.089 +06:00 [Information] Executing ViewResult, running view "Index".
+2019-12-21 13:20:18.098 +06:00 [Information] Executed ViewResult - view "Index" executed in 9.3505ms.
+2019-12-21 13:20:18.108 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Index (WebApp)" in 26.4885ms
+2019-12-21 13:20:18.110 +06:00 [Information] Request finished in 42.1992ms 200 text/html; charset=utf-8
+2019-12-21 13:20:21.351 +06:00 [Information] Request starting HTTP/1.1 POST https://localhost:5001/Home/Upload multipart/form-data; boundary=----WebKitFormBoundaryQiYS3soCBKOhMP2F 951
+2019-12-21 13:20:21.368 +06:00 [Information] Route matched with "{action = \"Upload\", controller = \"Home\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Upload(Microsoft.AspNetCore.Http.IFormFile)" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 13:20:21.431 +06:00 [Information] Executing action method "WebApp.Controllers.HomeController.Upload (WebApp)" - Validation state: Valid
+2019-12-21 13:20:21.579 +06:00 [Information] Success deleting file!
+2019-12-21 13:20:21.584 +06:00 [Information] Adding transactions.
+2019-12-21 13:20:21.774 +06:00 [Information] Entity Framework Core "2.1.14-servicing-32113" initialized '"TransactionDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+2019-12-21 13:20:21.955 +06:00 [Information] Executed DbCommand ("12"ms) [Parameters=["@p0='?' (DbType = Decimal), @p1='?' (Size = 10), @p2='?' (Size = 10), @p3='?' (DbType = DateTime), @p4='?' (Size = 50)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [Transaction] ([Amount], [CurrencyCode], [Status], [TransactionDate], [TransactionId])
+VALUES (@p0, @p1, @p2, @p3, @p4);
+SELECT [Id]
+FROM [Transaction]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();"
+2019-12-21 13:20:21.976 +06:00 [Information] Executed DbCommand ("1"ms) [Parameters=["@p0='?' (DbType = Decimal), @p1='?' (Size = 10), @p2='?' (Size = 10), @p3='?' (DbType = DateTime), @p4='?' (Size = 50)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [Transaction] ([Amount], [CurrencyCode], [Status], [TransactionDate], [TransactionId])
+VALUES (@p0, @p1, @p2, @p3, @p4);
+SELECT [Id]
+FROM [Transaction]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();"
+2019-12-21 13:20:21.989 +06:00 [Information] Executed action method "WebApp.Controllers.HomeController.Upload (WebApp)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 556.2225ms.
+2019-12-21 13:20:22.001 +06:00 [Information] Executing ViewResult, running view "Index".
+2019-12-21 13:20:22.009 +06:00 [Information] Executed ViewResult - view "Index" executed in 8.2951ms.
+2019-12-21 13:20:22.015 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Upload (WebApp)" in 643.7763ms
+2019-12-21 13:20:22.032 +06:00 [Information] Request finished in 681.1166ms 200 text/html; charset=utf-8
+2019-12-21 13:20:22.169 +06:00 [Information] Request starting HTTP/1.1 GET https://localhost:5001/Home/Upload  
+2019-12-21 13:20:22.171 +06:00 [Information] Route matched with "{action = \"Upload\", controller = \"Home\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Upload(Microsoft.AspNetCore.Http.IFormFile)" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 13:20:22.183 +06:00 [Information] Executing ObjectResult, writing value of type '"System.String"'.
+2019-12-21 13:20:22.185 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Upload (WebApp)" in 6.9449ms
+2019-12-21 13:20:22.186 +06:00 [Information] Request finished in 17.3197ms 400 text/plain; charset=utf-8
+2019-12-21 13:20:29.775 +06:00 [Information] Request starting HTTP/1.1 GET https://localhost:5001/  
+2019-12-21 13:20:29.787 +06:00 [Information] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 13:20:29.790 +06:00 [Information] Executing action method "WebApp.Controllers.HomeController.Index (WebApp)" - Validation state: Valid
+2019-12-21 13:20:29.793 +06:00 [Information] Executed action method "WebApp.Controllers.HomeController.Index (WebApp)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 0.0491ms.
+2019-12-21 13:20:29.797 +06:00 [Information] Executing ViewResult, running view "Index".
+2019-12-21 13:20:29.799 +06:00 [Information] Executed ViewResult - view "Index" executed in 2.4869ms.
+2019-12-21 13:20:29.801 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Index (WebApp)" in 11.2742ms
+2019-12-21 13:20:29.804 +06:00 [Information] Request finished in 28.5795ms 200 text/html; charset=utf-8
+2019-12-21 13:20:29.940 +06:00 [Information] Request starting HTTP/1.1 GET https://localhost:5001/  
+2019-12-21 13:20:29.946 +06:00 [Information] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "WebApp.Controllers.HomeController" ("WebApp").
+2019-12-21 13:20:29.953 +06:00 [Information] Executing action method "WebApp.Controllers.HomeController.Index (WebApp)" - Validation state: Valid
+2019-12-21 13:20:29.954 +06:00 [Information] Executed action method "WebApp.Controllers.HomeController.Index (WebApp)", returned result "Microsoft.AspNetCore.Mvc.ViewResult" in 0.0295ms.
+2019-12-21 13:20:29.956 +06:00 [Information] Executing ViewResult, running view "Index".
+2019-12-21 13:20:29.958 +06:00 [Information] Executed ViewResult - view "Index" executed in 1.7994ms.
+2019-12-21 13:20:29.959 +06:00 [Information] Executed action "WebApp.Controllers.HomeController.Index (WebApp)" in 7.2814ms
+2019-12-21 13:20:29.962 +06:00 [Information] Request finished in 21.5399ms 200 text/html; charset=utf-8

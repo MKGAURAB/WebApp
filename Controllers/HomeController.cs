@@ -26,6 +26,7 @@ namespace WebApp.Controllers
         }
         public IActionResult Index()
         {
+            ViewBag.Success = false;
             return View();
         }
 
@@ -50,7 +51,9 @@ namespace WebApp.Controllers
             }
             else
             {
-                return BadRequest(LogMessageConstants.FileUploadFailed);
+                ViewBag.Message = LogMessageConstants.FileUploadFailed;
+                ViewBag.Success = false;
+                return View("Index");
             }
 
             try
@@ -71,16 +74,21 @@ namespace WebApp.Controllers
             if (transactionModel.Errors.Any())
             {
                 var errorMsg = string.Join("\n", transactionModel.Errors);
-                return BadRequest(errorMsg);
+                ViewBag.Message = errorMsg;
+                ViewBag.Success = false;
+                return View("Index");
             }
 
             var isSaved = TransactionService.AddTransactions(transactionModel.Transcations);
             if (isSaved)
             {
-                return Ok(LogMessageConstants.FileUploadSuccessful);
+                ViewBag.Message = LogMessageConstants.FileUploadSuccessful;
+                ViewBag.Success = true;
+                return View("Index");
             }
-
-            return BadRequest(LogMessageConstants.FileUploadFailed);
+            ViewBag.Message = LogMessageConstants.FileUploadFailed;
+            ViewBag.Success = false;
+            return View("Index");
         }
     }
 }
