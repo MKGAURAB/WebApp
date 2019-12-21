@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Serilog;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -17,8 +18,8 @@ namespace WebApp.Handlers
             var xmlModels = Parse(path);
             if (!xmlModels.Any())
             {
-               Console.WriteLine(LogMessageConstants.NoXmlModel);
-                return null;
+               Log.Information(LogMessageConstants.NoXmlModel);
+               return null;
             }
 
             var transcations = new List<Transaction>();
@@ -67,7 +68,7 @@ namespace WebApp.Handlers
             }
             catch (Exception e)
             {
-                Console.WriteLine(LogMessageConstants.XmlParseError + e.Message + e.InnerException);
+                Log.Information(LogMessageConstants.XmlParseError + e.Message + e.InnerException);
             }
             return xmlModels;
         }

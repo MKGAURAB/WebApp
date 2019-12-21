@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Serilog;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -17,12 +18,12 @@ namespace WebApp.Handlers
             var csvModels = Parse(path);
             if (!csvModels.Any())
             {
-                Console.WriteLine(LogMessageConstants.NoCsvModel);
+                Log.Information(LogMessageConstants.NoCsvModel);
                 return null;
             }
 
             List<Transaction> transcations = new List<Transaction>();
-            IList<string> errors            = GetErrors(csvModels, uploadedFileName);
+            IList<string> errors           = GetErrors(csvModels, uploadedFileName);
 
             if (!errors.Any())
             {
@@ -97,7 +98,7 @@ namespace WebApp.Handlers
             }
             catch (Exception e)
             {
-                Console.WriteLine(LogMessageConstants.CsvParseError + e.Message + e.InnerException);
+                Log.Information(LogMessageConstants.CsvParseError + e.Message + e.InnerException);
             }
             return csvModels;
         }

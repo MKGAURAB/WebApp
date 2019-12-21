@@ -7,12 +7,13 @@ namespace WebApp.Utility.Constants
 {
     public class LogMessageConstants
     {
-        public const string UnknownFileFormat = "Unknown format";
-        public static string FileSizeExceeds  = "File size greater than: ";
-        public static string EmptyFile        = "Empty file uploaded!";
-        public static string FileUploadFailed = "File upload failed!";
-        public static string NoFileSelected   = "Please select a file!";
-        public static string DeleteFileError  = "Error deleting file. Error details:";
+        public const string UnknownFileFormat  = "Unknown format";
+        public static string FileSizeExceeds   = "File size greater than: ";
+        public static string EmptyFile         = "Empty file uploaded!";
+        public static string FileUploadFailed  = "File upload failed!";
+        public static string NoFileSelected    = "Please select a file!";
+        public static string DeleteFileError   = "Error deleting file. Error details:";
+        public static string DeleteFileSuccess = "Success deleting file!";
 
         public static string SaveTransactionError           = "Error saving transaction. Error details: ";
         public static string GetTransactionErrorByCode      = "Error getting transaction by currency code. Error details: ";

@@ -11,6 +11,8 @@ using WebApp.Handlers;
 using WebApp.Models;
 using WebApp.Services;
 using WebApp.Utility.Constants;
+using Microsoft.Extensions.Logging;
+using Serilog;
 
 namespace WebApp.Controllers
 {
@@ -54,10 +56,11 @@ namespace WebApp.Controllers
             try
             {
                 System.IO.File.Delete(path);
+                Log.Information(LogMessageConstants.DeleteFileSuccess);
             }
             catch (Exception e)
             {
-                Console.WriteLine(LogMessageConstants.DeleteFileError + e.Message);
+                Log.Information(LogMessageConstants.DeleteFileError + e.Message);
             }
 
             if (transactionModel == null)

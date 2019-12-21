@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Serilog;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using WebApp.EntityModels;
@@ -20,7 +21,7 @@ namespace WebApp.Services
         {
             try
             {
-                Console.WriteLine(LogMessageConstants.SaveTransaction);
+                Log.Information(LogMessageConstants.SaveTransaction);
                 DbContext.Transaction.AddRange(transactions);
                 DbContext.SaveChanges();
                 return true;
@@ -28,7 +29,7 @@ namespace WebApp.Services
             catch (Exception e)
             {
                 var error = LogMessageConstants.SaveTransactionError + e.Message + e.InnerException;
-                Console.WriteLine(error);
+                Log.Information(error);
                 return false;
             }
         }
@@ -37,7 +38,7 @@ namespace WebApp.Services
         {
             try
             {
-               Console.WriteLine(LogMessageConstants.GetTransactionByCode);
+                Log.Information(LogMessageConstants.GetTransactionByCode);
 
                 var ctx      = DbContext;
                 var response = from txn in ctx.Transaction
@@ -63,7 +64,7 @@ namespace WebApp.Services
         {
             try
             {
-                Console.WriteLine(LogMessageConstants.GetTransactionByDateRange);
+                Log.Information(LogMessageConstants.GetTransactionByDateRange);
 
                 var ctx      = DbContext;
                 var response = from txn in ctx.Transaction
@@ -89,7 +90,7 @@ namespace WebApp.Services
         {
             try
             {
-                Console.WriteLine(LogMessageConstants.GetTransactionByStatus);
+                Log.Information(LogMessageConstants.GetTransactionByStatus);
 
                 var ctx      = DbContext;
                 var response = from txn in ctx.Transaction
