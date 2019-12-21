@@ -1,7 +1,8 @@
 ﻿# WebApp
-This is a very basic ASP.NET Core 2.1 Web Application (MVC) project (using .Net Core 2.1, Microsoft.EntityFrameworkCore, NSwag).
+This is a very basic ASP.NET Core 2.1 Web Application (MVC) project (using .Net Core 2.1, Microsoft.EntityFrameworkCore, NSwag, Serilog).
 The App has these following functionalities:
 * It maintains a Controller named HomeController, which process CSV/XML file and store transaction data into database.
+* Serilog is used for Defualt Logger in the App and for now the Date wise logs are written in Logs/log-{Date}.txt file. Minimum logging level is set to "Information"
 * It has an another Controller named TransactionController, which is a ApiController can get transactions from database according to following criteria:
 	1. Using currency code
 	2. Using date range
